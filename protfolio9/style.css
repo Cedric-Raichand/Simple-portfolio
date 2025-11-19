@@ -14,7 +14,7 @@
     --text-color: #333;
     --main-color: #754ef9;
     --white-color: #fff;
-    --shadow-color: rgba(0, 0, 0, .2);
+    --shadow-color: rgba(0, 0, 0, .3);
 }
 
 .dark-mode {
@@ -231,7 +231,7 @@ section {
     width: 560px;
     height: 560px;
     border-radius: 50%;
-    border: 3px solid var(--main-color);
+    border: 2px solid var(--main-color);
     z-index: -1;
 }
 
@@ -435,3 +435,4 @@ textarea {
     color: var(--white-color);
     font-size: 2.4rem;
     }
+
